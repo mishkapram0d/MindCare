@@ -19,6 +19,10 @@ MindCare is a web application designed to support students' mental well-being by
 - CSS3
 - Netlify
 
+## Architecture
+
+![Project Architecture](architecture.png)
+
 ## Live Demo
 
 https://sparkly-gingersnap-df39cd.netlify.app/
